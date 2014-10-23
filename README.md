@@ -8,3 +8,4 @@ You will need :
   scrapy
   twisted
   
+To run this, simply navigate to the directory emails.py is stored and type "scrapy runspider emails.py"
